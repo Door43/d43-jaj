@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jaj:home|Door43 (jaj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jaj|d43-jaj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jaj/archive/master.zip|d43-jaj.zip]]
+
+**Recent Changes**
+{{changes>ns = jaj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jaj|Ethnologue data]]
+
